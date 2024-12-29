@@ -24,6 +24,9 @@ USE_PIXEL_CHARGER := true
 # Boot Animation
 TARGET_BOOT_ANIMATION_RES := 720
 
+# GAPPS
+WITH_GAPPS := true
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := qassa_onclite
 PRODUCT_DEVICE := onclite
